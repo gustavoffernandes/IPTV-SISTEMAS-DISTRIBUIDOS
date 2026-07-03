@@ -105,6 +105,8 @@ iptv/
 ## 👤 Autor
 
 Gustavo Fernandes
+Daniel Coutinho
+Lucas Yuri
 - Email: gh5857750@gmail.com
 - GitHub: (https://github.com/ktchau10)
 
